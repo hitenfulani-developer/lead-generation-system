@@ -1,4 +1,4 @@
-# 🎯 Lead Generation System
+ Lead Generation System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![n8n](https://img.shields.io/badge/n8n-Automation-orange)](https://n8n.io/)
