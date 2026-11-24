@@ -7,8 +7,6 @@
 
 > **Complete B2B lead generation machine combining Apollo.io, Google Search, LinkedIn scraping, and AI-powered qualification into one automated system.**
 
-## 🎬 Demo Video
-
 ### See the Full System in Action
 
 <div align="center">
